@@ -1,4 +1,4 @@
-## Taller de Introducción a Heroku
+## PARCIAL 2 - AREP
 
 ### AUTOR
 * Janer Stiven Vanegas Trujillo

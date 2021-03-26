@@ -22,7 +22,7 @@ Y a continuación ir a la siguiente direccion web
 
 `http://localhost:8080/apidocs/index.html`
 
-### IMPLEMENTACION EC5
+### IMPLEMENTACION EC2
 
 Para ingresar a la maquina virtual descargamos las llaves que AWS nos proporciona, y continuación mediante ssh nos conectamos a la maquina virtual
 
